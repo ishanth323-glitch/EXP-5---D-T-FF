@@ -80,6 +80,10 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 **## Output**
 
 
+<img width="1477" height="782" alt="Screenshot 2026-11-23 123438" src="https://github.com/user-attachments/assets/2643b983-3ce9-451a-a782-b6fbcebc9188" />
+
+<img width="1530" height="700" alt="Screenshot 2026-11-23 123821" src="https://github.com/user-attachments/assets/456e56b9-d8d2-4cd6-b07c-62991d0096c7" />
+
 ## Viva-Voce Questions
 
 ●	What is the difference between a latch and a flip-flop?
